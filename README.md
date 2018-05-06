@@ -3,4 +3,4 @@ This repository is created by a self-taught programming amateur， to record and
 ## To Do List
 - 查全国7天天气
 - 携程机票查询
-- Deep Learning
+- Python Machine Learning book
