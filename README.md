@@ -1,6 +1,5 @@
 # Python Practice
-This repository is created to record some Python crawlers，data related and graphic visualization.  
-Some projects referenced [实验楼](https://www.shiyanlou.com/).
+这个库是用于记录Python爬虫实战和数据相关的，大多数项目来自于[实验楼](https://www.shiyanlou.com/)。
 ## To Do List
 - 查全国7天天气
 - 携程机票查询
