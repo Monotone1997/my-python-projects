@@ -4,3 +4,4 @@ This repository is created by a self-taught programming amateur， to record and
 - 查全国7天天气
 - 携程机票查询
 - Python Machine Learning book
+- Pt-AutoSeed
