@@ -20,3 +20,4 @@ $ pip3.5 install requests colorama docopt prettytble
 $ python tickets.py [-gdtkz] from to date
 ```  
 ## 代码实现
+[**codes**](https://github.com/Monotone1997/my-python-projects/blob/master/train%20tickets/tic.py)
