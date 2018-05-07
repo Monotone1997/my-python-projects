@@ -12,6 +12,6 @@
 - `colorama` -> http请求库
 - `prettytable` -> 表格显示及美化
 ```
-pip3.5 install requests colorama docopt prettytble  
+$ pip3.5 install requests colorama docopt prettytble  
 ```
  
