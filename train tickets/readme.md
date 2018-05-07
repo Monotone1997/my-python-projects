@@ -15,7 +15,7 @@ $ pip3.5 install requests colorama docopt prettytble
 - `prettytable` -> 表格显示及美化
 
 ## 接口设计
-用户输入的信息包括<font color=red>出发站，到达站、日期以及火车类型</font>，这几个选项应该能被组合使用  
+用户输入的信息包括出发站，到达站、日期以及火车类型，这几个选项应该能被组合使用：  
 ```
 $ python tickets.py [-gdtkz] from to date
 ```  
