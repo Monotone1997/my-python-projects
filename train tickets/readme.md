@@ -7,11 +7,10 @@
 ---
 
 ### 需要用到的库
+```
+$ pip3.5 install requests colorama docopt prettytble  
+```
 - `docopt` -> 命令行解释器
 - `requests` -> 文本着色器
 - `colorama` -> http请求库
 - `prettytable` -> 表格显示及美化
-```
-$ pip3.5 install requests colorama docopt prettytble  
-```
- 
