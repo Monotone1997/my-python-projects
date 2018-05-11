@@ -16,8 +16,8 @@ $ pip3.5 install requests colorama docopt prettytble
 
 ## 接口设计
 用户输入的信息包括出发站，到达站、日期以及火车类型，这几个选项应该能被组合使用：  
-```
-$ python tickets.py [-gdtkz] from to date
-```  
+
+    python tickets.py [-gdtkz] from to date
+
 ## 代码实现
 [**codes**](https://github.com/Monotone1997/my-python-projects/blob/master/train%20tickets/tic.py)
